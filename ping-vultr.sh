@@ -19,9 +19,9 @@ echo "Toronto, Canada[加拿大 多伦多]	149.248.50.81" && ping -c 5	tor-ca-pi
 
 echo "Stockholm[瑞典斯德哥尔摩]	70.34.194.86" && ping -c 5	sto-se-ping.vultr.com
 echo "Frankfurt[德国法兰福特]	108.61.210.117" && ping -c 5	fra-de-ping.vultr.com
-echo "Madrid	西班牙马德里 208.76.222.30" && ping -c 5 mad-es-ping.vultr.com	  
-echo "Warsaw	波兰华沙 70.34.242.24" && ping -c 5 waw-pl-ping.vultr.com	  
-echo "Mexico City	墨西哥墨西哥城 216.238.66.16" && ping -c 5 mex-mx-ping.vultr.com	  
-echo "Honolulu	美国火奴鲁鲁/檀香山 208.72.154.76" && ping -c 5	hon-hi-us-ping.vultr.com	
-echo "Melbourne	澳大利亚墨尔本 67.219.110.24" && ping -c 5 mel-au-ping.vultr.com	 
-echo "São Paulo	巴西圣保罗 216.238.98.118" && ping -c 5 sao-br-ping.vultr.com	 
+echo "Madrid[西班牙马德里] 208.76.222.30" && ping -c 5 mad-es-ping.vultr.com	  
+echo "Warsaw[波兰华沙] 70.34.242.24" && ping -c 5 waw-pl-ping.vultr.com	  
+echo "Mexico City[墨西哥墨西哥城] 216.238.66.16" && ping -c 5 mex-mx-ping.vultr.com	  
+echo "Honolulu[美国火奴鲁鲁/檀香山] 208.72.154.76" && ping -c 5	hon-hi-us-ping.vultr.com	
+echo "Melbourne[澳大利亚墨尔本] 67.219.110.24" && ping -c 5 mel-au-ping.vultr.com	 
+echo "São Paulo[巴西圣保罗] 216.238.98.118" && ping -c 5 sao-br-ping.vultr.com	 
